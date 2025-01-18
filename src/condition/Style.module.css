@@ -1,0 +1,15 @@
+.conditionTrue {
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.conditionFalse {
+    background-color: rgb(114, 0, 0);
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
